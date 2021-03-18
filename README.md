@@ -1,6 +1,6 @@
 ＃LoginToNotice
 
-采用Send Cloud邮件通知Typecho博客登录成功或者登录失败。
+采用Send Cloud邮件对Typecho博客的登录消息进行通知。通知内容为：登录结果、登录账号、登录密码、登录IP、登录时间。
 
 使用说明：<br>
 第一步：下载本插件，修改文件夹名为“LoginToNotice”，并放在usr/plugins/目录中；<br>
